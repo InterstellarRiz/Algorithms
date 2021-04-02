@@ -10,24 +10,10 @@ namespace _1._Two_Sum
         {
             int[] intArray = new int[] {2, 7, 11, 15 };
             List<int> nums = intArray.ToList();
-            
             int target = 9;
-
-            for (int i = 0; i < intArray.Length; i++)
-            {
-                for (int j = i + 1; j < intArray.Length; j++)
-                {
-                    if (nums[i] + nums[j] == target)
-                    {
-                        int[] sumValues = new int[] { i, j };
-                        Console.WriteLine(sumValues.ToString());
-                    }
-                }
-            }
-            throw new Exception("Not found");
         }
 
-        public int[] TWOSum(int[] nums, int target)
+        public int[] TwoSum(int[] nums, int target)
         {
             Dictionary<int, int> twoSumInput = new Dictionary<int, int>();
 
@@ -44,7 +30,24 @@ namespace _1._Two_Sum
                     twoSumInput[nums[i]] = i;
                 }
             }
-        }throw new Exception("Why");
+
+            // another way
+        //    public class Solution
+        //{
+        //    public int[] TwoSum(int[] nums, int target)
+        //    {
+        //        for (var i = 1; i < nums.Length; i++)
+        //        {
+        //            for (var j = 0; j < i; j++)
+        //            {
+        //                if (target == nums[i] + nums[j]) return new[] { j, i };
+        //            }
+        //        }
+
+        //        throw new ArgumentException("Invalid collection", nameof(nums));
+        //    }
+        //}
+    }throw new Exception("Why");
     }
 }
 
