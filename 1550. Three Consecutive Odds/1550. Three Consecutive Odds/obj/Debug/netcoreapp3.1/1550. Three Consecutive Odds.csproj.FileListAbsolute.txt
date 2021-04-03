@@ -1,0 +1,13 @@
+C:\Users\rizor\source\repos\Algorithms\1550. Three Consecutive Odds\1550. Three Consecutive Odds\bin\Debug\netcoreapp3.1\1550. Three Consecutive Odds.exe
+C:\Users\rizor\source\repos\Algorithms\1550. Three Consecutive Odds\1550. Three Consecutive Odds\bin\Debug\netcoreapp3.1\1550. Three Consecutive Odds.deps.json
+C:\Users\rizor\source\repos\Algorithms\1550. Three Consecutive Odds\1550. Three Consecutive Odds\bin\Debug\netcoreapp3.1\1550. Three Consecutive Odds.runtimeconfig.json
+C:\Users\rizor\source\repos\Algorithms\1550. Three Consecutive Odds\1550. Three Consecutive Odds\bin\Debug\netcoreapp3.1\1550. Three Consecutive Odds.runtimeconfig.dev.json
+C:\Users\rizor\source\repos\Algorithms\1550. Three Consecutive Odds\1550. Three Consecutive Odds\bin\Debug\netcoreapp3.1\1550. Three Consecutive Odds.dll
+C:\Users\rizor\source\repos\Algorithms\1550. Three Consecutive Odds\1550. Three Consecutive Odds\bin\Debug\netcoreapp3.1\1550. Three Consecutive Odds.pdb
+C:\Users\rizor\source\repos\Algorithms\1550. Three Consecutive Odds\1550. Three Consecutive Odds\obj\Debug\netcoreapp3.1\1550. Three Consecutive Odds.csprojAssemblyReference.cache
+C:\Users\rizor\source\repos\Algorithms\1550. Three Consecutive Odds\1550. Three Consecutive Odds\obj\Debug\netcoreapp3.1\1550. Three Consecutive Odds.AssemblyInfoInputs.cache
+C:\Users\rizor\source\repos\Algorithms\1550. Three Consecutive Odds\1550. Three Consecutive Odds\obj\Debug\netcoreapp3.1\1550. Three Consecutive Odds.AssemblyInfo.cs
+C:\Users\rizor\source\repos\Algorithms\1550. Three Consecutive Odds\1550. Three Consecutive Odds\obj\Debug\netcoreapp3.1\1550. Three Consecutive Odds.csproj.CoreCompileInputs.cache
+C:\Users\rizor\source\repos\Algorithms\1550. Three Consecutive Odds\1550. Three Consecutive Odds\obj\Debug\netcoreapp3.1\1550. Three Consecutive Odds.dll
+C:\Users\rizor\source\repos\Algorithms\1550. Three Consecutive Odds\1550. Three Consecutive Odds\obj\Debug\netcoreapp3.1\1550. Three Consecutive Odds.pdb
+C:\Users\rizor\source\repos\Algorithms\1550. Three Consecutive Odds\1550. Three Consecutive Odds\obj\Debug\netcoreapp3.1\1550. Three Consecutive Odds.genruntimeconfig.cache
