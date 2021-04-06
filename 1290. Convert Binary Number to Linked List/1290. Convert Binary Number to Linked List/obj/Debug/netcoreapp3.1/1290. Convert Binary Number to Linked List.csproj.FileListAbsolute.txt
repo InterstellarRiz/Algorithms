@@ -1,0 +1,13 @@
+C:\Users\rizor\source\repos\Algorithms\1290. Convert Binary Number to Linked List\1290. Convert Binary Number to Linked List\bin\Debug\netcoreapp3.1\1290. Convert Binary Number to Linked List.exe
+C:\Users\rizor\source\repos\Algorithms\1290. Convert Binary Number to Linked List\1290. Convert Binary Number to Linked List\bin\Debug\netcoreapp3.1\1290. Convert Binary Number to Linked List.deps.json
+C:\Users\rizor\source\repos\Algorithms\1290. Convert Binary Number to Linked List\1290. Convert Binary Number to Linked List\bin\Debug\netcoreapp3.1\1290. Convert Binary Number to Linked List.runtimeconfig.json
+C:\Users\rizor\source\repos\Algorithms\1290. Convert Binary Number to Linked List\1290. Convert Binary Number to Linked List\bin\Debug\netcoreapp3.1\1290. Convert Binary Number to Linked List.runtimeconfig.dev.json
+C:\Users\rizor\source\repos\Algorithms\1290. Convert Binary Number to Linked List\1290. Convert Binary Number to Linked List\bin\Debug\netcoreapp3.1\1290. Convert Binary Number to Linked List.dll
+C:\Users\rizor\source\repos\Algorithms\1290. Convert Binary Number to Linked List\1290. Convert Binary Number to Linked List\bin\Debug\netcoreapp3.1\1290. Convert Binary Number to Linked List.pdb
+C:\Users\rizor\source\repos\Algorithms\1290. Convert Binary Number to Linked List\1290. Convert Binary Number to Linked List\obj\Debug\netcoreapp3.1\1290. Convert Binary Number to Linked List.csprojAssemblyReference.cache
+C:\Users\rizor\source\repos\Algorithms\1290. Convert Binary Number to Linked List\1290. Convert Binary Number to Linked List\obj\Debug\netcoreapp3.1\1290. Convert Binary Number to Linked List.AssemblyInfoInputs.cache
+C:\Users\rizor\source\repos\Algorithms\1290. Convert Binary Number to Linked List\1290. Convert Binary Number to Linked List\obj\Debug\netcoreapp3.1\1290. Convert Binary Number to Linked List.AssemblyInfo.cs
+C:\Users\rizor\source\repos\Algorithms\1290. Convert Binary Number to Linked List\1290. Convert Binary Number to Linked List\obj\Debug\netcoreapp3.1\1290. Convert Binary Number to Linked List.csproj.CoreCompileInputs.cache
+C:\Users\rizor\source\repos\Algorithms\1290. Convert Binary Number to Linked List\1290. Convert Binary Number to Linked List\obj\Debug\netcoreapp3.1\1290. Convert Binary Number to Linked List.dll
+C:\Users\rizor\source\repos\Algorithms\1290. Convert Binary Number to Linked List\1290. Convert Binary Number to Linked List\obj\Debug\netcoreapp3.1\1290. Convert Binary Number to Linked List.pdb
+C:\Users\rizor\source\repos\Algorithms\1290. Convert Binary Number to Linked List\1290. Convert Binary Number to Linked List\obj\Debug\netcoreapp3.1\1290. Convert Binary Number to Linked List.genruntimeconfig.cache
