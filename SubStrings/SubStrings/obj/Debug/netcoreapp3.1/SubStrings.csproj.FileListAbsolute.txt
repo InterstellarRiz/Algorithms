@@ -1,0 +1,13 @@
+C:\Users\rizor\source\repos\SubStrings\SubStrings\bin\Debug\netcoreapp3.1\SubStrings.exe
+C:\Users\rizor\source\repos\SubStrings\SubStrings\bin\Debug\netcoreapp3.1\SubStrings.deps.json
+C:\Users\rizor\source\repos\SubStrings\SubStrings\bin\Debug\netcoreapp3.1\SubStrings.runtimeconfig.json
+C:\Users\rizor\source\repos\SubStrings\SubStrings\bin\Debug\netcoreapp3.1\SubStrings.runtimeconfig.dev.json
+C:\Users\rizor\source\repos\SubStrings\SubStrings\bin\Debug\netcoreapp3.1\SubStrings.dll
+C:\Users\rizor\source\repos\SubStrings\SubStrings\bin\Debug\netcoreapp3.1\SubStrings.pdb
+C:\Users\rizor\source\repos\SubStrings\SubStrings\obj\Debug\netcoreapp3.1\SubStrings.csprojAssemblyReference.cache
+C:\Users\rizor\source\repos\SubStrings\SubStrings\obj\Debug\netcoreapp3.1\SubStrings.AssemblyInfoInputs.cache
+C:\Users\rizor\source\repos\SubStrings\SubStrings\obj\Debug\netcoreapp3.1\SubStrings.AssemblyInfo.cs
+C:\Users\rizor\source\repos\SubStrings\SubStrings\obj\Debug\netcoreapp3.1\SubStrings.csproj.CoreCompileInputs.cache
+C:\Users\rizor\source\repos\SubStrings\SubStrings\obj\Debug\netcoreapp3.1\SubStrings.dll
+C:\Users\rizor\source\repos\SubStrings\SubStrings\obj\Debug\netcoreapp3.1\SubStrings.pdb
+C:\Users\rizor\source\repos\SubStrings\SubStrings\obj\Debug\netcoreapp3.1\SubStrings.genruntimeconfig.cache
