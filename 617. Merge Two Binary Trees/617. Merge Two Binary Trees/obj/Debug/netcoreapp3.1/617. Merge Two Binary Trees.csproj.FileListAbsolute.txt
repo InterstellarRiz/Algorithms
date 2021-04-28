@@ -1,0 +1,13 @@
+C:\Users\rizor\source\repos\Algorithms\617. Merge Two Binary Trees\617. Merge Two Binary Trees\bin\Debug\netcoreapp3.1\617. Merge Two Binary Trees.exe
+C:\Users\rizor\source\repos\Algorithms\617. Merge Two Binary Trees\617. Merge Two Binary Trees\bin\Debug\netcoreapp3.1\617. Merge Two Binary Trees.deps.json
+C:\Users\rizor\source\repos\Algorithms\617. Merge Two Binary Trees\617. Merge Two Binary Trees\bin\Debug\netcoreapp3.1\617. Merge Two Binary Trees.runtimeconfig.json
+C:\Users\rizor\source\repos\Algorithms\617. Merge Two Binary Trees\617. Merge Two Binary Trees\bin\Debug\netcoreapp3.1\617. Merge Two Binary Trees.runtimeconfig.dev.json
+C:\Users\rizor\source\repos\Algorithms\617. Merge Two Binary Trees\617. Merge Two Binary Trees\bin\Debug\netcoreapp3.1\617. Merge Two Binary Trees.dll
+C:\Users\rizor\source\repos\Algorithms\617. Merge Two Binary Trees\617. Merge Two Binary Trees\bin\Debug\netcoreapp3.1\617. Merge Two Binary Trees.pdb
+C:\Users\rizor\source\repos\Algorithms\617. Merge Two Binary Trees\617. Merge Two Binary Trees\obj\Debug\netcoreapp3.1\617. Merge Two Binary Trees.csprojAssemblyReference.cache
+C:\Users\rizor\source\repos\Algorithms\617. Merge Two Binary Trees\617. Merge Two Binary Trees\obj\Debug\netcoreapp3.1\617. Merge Two Binary Trees.AssemblyInfoInputs.cache
+C:\Users\rizor\source\repos\Algorithms\617. Merge Two Binary Trees\617. Merge Two Binary Trees\obj\Debug\netcoreapp3.1\617. Merge Two Binary Trees.AssemblyInfo.cs
+C:\Users\rizor\source\repos\Algorithms\617. Merge Two Binary Trees\617. Merge Two Binary Trees\obj\Debug\netcoreapp3.1\617. Merge Two Binary Trees.csproj.CoreCompileInputs.cache
+C:\Users\rizor\source\repos\Algorithms\617. Merge Two Binary Trees\617. Merge Two Binary Trees\obj\Debug\netcoreapp3.1\617. Merge Two Binary Trees.dll
+C:\Users\rizor\source\repos\Algorithms\617. Merge Two Binary Trees\617. Merge Two Binary Trees\obj\Debug\netcoreapp3.1\617. Merge Two Binary Trees.pdb
+C:\Users\rizor\source\repos\Algorithms\617. Merge Two Binary Trees\617. Merge Two Binary Trees\obj\Debug\netcoreapp3.1\617. Merge Two Binary Trees.genruntimeconfig.cache
