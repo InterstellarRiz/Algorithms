@@ -1,0 +1,13 @@
+D:\C#\121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock\bin\Debug\netcoreapp3.1\121. Best Time to Buy and Sell Stock.exe
+D:\C#\121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock\bin\Debug\netcoreapp3.1\121. Best Time to Buy and Sell Stock.deps.json
+D:\C#\121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock\bin\Debug\netcoreapp3.1\121. Best Time to Buy and Sell Stock.runtimeconfig.json
+D:\C#\121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock\bin\Debug\netcoreapp3.1\121. Best Time to Buy and Sell Stock.runtimeconfig.dev.json
+D:\C#\121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock\bin\Debug\netcoreapp3.1\121. Best Time to Buy and Sell Stock.dll
+D:\C#\121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock\bin\Debug\netcoreapp3.1\121. Best Time to Buy and Sell Stock.pdb
+D:\C#\121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock\obj\Debug\netcoreapp3.1\121. Best Time to Buy and Sell Stock.csprojAssemblyReference.cache
+D:\C#\121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock\obj\Debug\netcoreapp3.1\121. Best Time to Buy and Sell Stock.AssemblyInfoInputs.cache
+D:\C#\121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock\obj\Debug\netcoreapp3.1\121. Best Time to Buy and Sell Stock.AssemblyInfo.cs
+D:\C#\121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock\obj\Debug\netcoreapp3.1\121. Best Time to Buy and Sell Stock.csproj.CoreCompileInputs.cache
+D:\C#\121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock\obj\Debug\netcoreapp3.1\121. Best Time to Buy and Sell Stock.dll
+D:\C#\121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock\obj\Debug\netcoreapp3.1\121. Best Time to Buy and Sell Stock.pdb
+D:\C#\121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock\obj\Debug\netcoreapp3.1\121. Best Time to Buy and Sell Stock.genruntimeconfig.cache
