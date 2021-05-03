@@ -1,0 +1,7 @@
+D:\C#\557. Reverse Words in a String III\557. Reverse Words in a String III\bin\Debug\_557.Reverse_Words_in_a_String_III.exe.config
+D:\C#\557. Reverse Words in a String III\557. Reverse Words in a String III\bin\Debug\_557.Reverse_Words_in_a_String_III.exe
+D:\C#\557. Reverse Words in a String III\557. Reverse Words in a String III\bin\Debug\_557.Reverse_Words_in_a_String_III.pdb
+D:\C#\557. Reverse Words in a String III\557. Reverse Words in a String III\obj\Debug\557. Reverse Words in a String III.csprojAssemblyReference.cache
+D:\C#\557. Reverse Words in a String III\557. Reverse Words in a String III\obj\Debug\557. Reverse Words in a String III.csproj.CoreCompileInputs.cache
+D:\C#\557. Reverse Words in a String III\557. Reverse Words in a String III\obj\Debug\_557.Reverse_Words_in_a_String_III.exe
+D:\C#\557. Reverse Words in a String III\557. Reverse Words in a String III\obj\Debug\_557.Reverse_Words_in_a_String_III.pdb
