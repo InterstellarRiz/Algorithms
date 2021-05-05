@@ -1,0 +1,13 @@
+C:\Users\rizor\source\repos\Exercises\Ch10Decompression\Ch10Decompression\bin\Debug\netcoreapp3.1\Ch10Decompression.exe
+C:\Users\rizor\source\repos\Exercises\Ch10Decompression\Ch10Decompression\bin\Debug\netcoreapp3.1\Ch10Decompression.deps.json
+C:\Users\rizor\source\repos\Exercises\Ch10Decompression\Ch10Decompression\bin\Debug\netcoreapp3.1\Ch10Decompression.runtimeconfig.json
+C:\Users\rizor\source\repos\Exercises\Ch10Decompression\Ch10Decompression\bin\Debug\netcoreapp3.1\Ch10Decompression.runtimeconfig.dev.json
+C:\Users\rizor\source\repos\Exercises\Ch10Decompression\Ch10Decompression\bin\Debug\netcoreapp3.1\Ch10Decompression.dll
+C:\Users\rizor\source\repos\Exercises\Ch10Decompression\Ch10Decompression\bin\Debug\netcoreapp3.1\Ch10Decompression.pdb
+C:\Users\rizor\source\repos\Exercises\Ch10Decompression\Ch10Decompression\obj\Debug\netcoreapp3.1\Ch10Decompression.csprojAssemblyReference.cache
+C:\Users\rizor\source\repos\Exercises\Ch10Decompression\Ch10Decompression\obj\Debug\netcoreapp3.1\Ch10Decompression.AssemblyInfoInputs.cache
+C:\Users\rizor\source\repos\Exercises\Ch10Decompression\Ch10Decompression\obj\Debug\netcoreapp3.1\Ch10Decompression.AssemblyInfo.cs
+C:\Users\rizor\source\repos\Exercises\Ch10Decompression\Ch10Decompression\obj\Debug\netcoreapp3.1\Ch10Decompression.csproj.CoreCompileInputs.cache
+C:\Users\rizor\source\repos\Exercises\Ch10Decompression\Ch10Decompression\obj\Debug\netcoreapp3.1\Ch10Decompression.dll
+C:\Users\rizor\source\repos\Exercises\Ch10Decompression\Ch10Decompression\obj\Debug\netcoreapp3.1\Ch10Decompression.pdb
+C:\Users\rizor\source\repos\Exercises\Ch10Decompression\Ch10Decompression\obj\Debug\netcoreapp3.1\Ch10Decompression.genruntimeconfig.cache
